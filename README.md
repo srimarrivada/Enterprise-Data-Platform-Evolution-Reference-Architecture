@@ -1,0 +1,2 @@
+# Enterprise-Data-Platform-Evolution-Reference-Architecture
+Reference architecture for modernizing an enterprise HR data platform in 4 phases: On-prem batch lake (Spark, Hive, Airflow) → Multi-source integration with identity resolution → Real-time Hybrid Lambda architecture (Kafka, Spark Streaming) → Cloud-native Governed Azure Lakehouse (Databricks, Delta Lake, Unity Catalog, domain data products)
